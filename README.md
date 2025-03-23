@@ -10,8 +10,7 @@ https://hub.docker.com/r/camenduru/hunyuan-i2v-runpod
 `camenduru/hunyuan-i2v-runpod:fp16` <br />
 
 ### 📋 Tutorial
-24GB VRAM: `docker container run -it --rm --gpus device=0 -p 8188:8188 camenduru/hunyuan-i2v-runpod:fp8` <br />
-64GB VRAM: `docker container run -it --rm --gpus device=0 -p 8188:8188 camenduru/hunyuan-i2v-runpod:fp16` <br />
+
 
 ### 🧬 Code
 https://github.com/Tencent/HunyuanVideo-I2V
