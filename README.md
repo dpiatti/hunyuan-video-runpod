@@ -10,6 +10,8 @@ https://hub.docker.com/r/camenduru/hunyuan-i2v-runpod
 `camenduru/hunyuan-i2v-runpod:fp16` <br />
 
 ### 📋 Tutorial
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/hunyuan-video-runpod/blob/main/test_jupyter.ipynb) | test_jupyter
+
 
 
 ### 🧬 Code
