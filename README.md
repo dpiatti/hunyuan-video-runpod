@@ -13,6 +13,8 @@ https://hub.docker.com/r/camenduru/hunyuan-i2v-runpod
 SET runpod Environment Variables `CLOUDINARY_URL` <br />
 <img width="516" alt="Image" src="https://github.com/user-attachments/assets/57a95a8c-70bf-4292-a21d-f578d87a7049" /> <br />
 
+| Colab | Info
+| --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/hunyuan-video-runpod/blob/main/test_jupyter.ipynb) | test_jupyter <br />
 
 ### 🧬 Code
