@@ -7,7 +7,7 @@ https://hub.docker.com/r/camenduru/hunyuan-i2v-runpod
 
 ### 🏷Tags
 24GB VRAM (if 512x512): `camenduru/hunyuan-i2v-runpod:fp8` <br />
-48GB VRAM: `camenduru/hunyuan-i2v-runpod:fp16` <br />
+48GB VRAM (if 1280x720):`camenduru/hunyuan-i2v-runpod:fp16` <br />
 
 ### 📋 Tutorial
 SET runpod Environment Variables `CLOUDINARY_URL` <br />
